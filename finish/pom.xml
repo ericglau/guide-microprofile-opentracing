@@ -17,7 +17,7 @@
         <version.download-maven-plugin>1.4.0</version.download-maven-plugin>
         <version.maven-surefire-plugin>2.18.1</version.maven-surefire-plugin>
         <version.maven-failsafe-plugin>2.18.1</version.maven-failsafe-plugin>
-        <version.liberty-maven-plugin>2.5</version.liberty-maven-plugin>
+        <version.liberty-maven-plugin>2.6.1</version.liberty-maven-plugin>
         <!-- OpenLiberty runtime -->
         <version.openliberty-runtime>RELEASE</version.openliberty-runtime>
         <sys.service.http.port>9080</sys.service.http.port>

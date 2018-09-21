@@ -98,11 +98,6 @@
                         <goals>
                             <goal>install-feature</goal>
                         </goals>
-                        <configuration>
-                            <features>
-                                <acceptLicense>true</acceptLicense>
-                            </features>
-                        </configuration>
                     </execution>
                     <execution>
                         <id>create-default-server</id>
